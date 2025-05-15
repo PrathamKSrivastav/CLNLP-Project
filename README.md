@@ -1,8 +1,8 @@
-# 🧠 Text Classification with NLP
+# Text Classification with NLP
 
 This repository contains a Jupyter Notebook implementing a basic **Text Classification** pipeline using **Natural Language Processing (NLP)** and **Machine Learning** techniques.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CL_NPL.ipynb       # Main Jupyter Notebook for text classification
@@ -10,7 +10,7 @@ requirements.txt   # Python dependencies (create if needed)
 README.md          # This file
 ```
 
-## 🔍 Overview
+## Overview
 
 The notebook demonstrates the process of:
 - Loading and preprocessing textual data
@@ -18,7 +18,7 @@ The notebook demonstrates the process of:
 - Training a classification model (e.g., Logistic Regression)
 - Evaluating model performance using metrics such as accuracy and F1-score
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -47,7 +47,7 @@ pip install pandas scikit-learn matplotlib seaborn notebook
 jupyter notebook CL_NPL.ipynb
 ```
 
-## 📊 Example Output
+## Example Output
 
 After training, you'll see outputs like:
 
@@ -55,28 +55,20 @@ After training, you'll see outputs like:
 - Confusion matrix
 - Classification report with precision, recall, and F1-score
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- Python 🐍
-- Scikit-learn 🤖
-- Pandas & NumPy 📊
-- Jupyter Notebook 📒
-- TF-IDF Vectorizer ✉️
+- Python 
+- Scikit-learn 
+- Pandas & NumPy 
+- Jupyter Notebook 
+- TF-IDF Vectorizer
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Add hyperparameter tuning
 - Try advanced models like SVM, XGBoost, or Transformers
 - Deploy as a Flask API
 
-## 🤝 Contributing
-
-Contributions are welcome! Open an issue or fork and submit a pull request.
-
-## 📄 License
-
-[MIT License](LICENSE)
-
 ---
 
-**Author**: [Your Name](https://github.com/yourusername)
+**Author**: [Pratham Kumar Srivastav](https://github.com/PrathamKSrivastav)
